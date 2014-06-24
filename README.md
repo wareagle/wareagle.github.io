@@ -1,4 +1,3 @@
-wareagle.github.io
-==================
+# Personal GitHub Home Page
 
-Personal Account GitHub pages web site
+Demo for class
